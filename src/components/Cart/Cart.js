@@ -3,7 +3,7 @@ import './Cart.css';
 
 const Cart = (props) => {
     const {cart} = props;
-    console.log("from cart",cart);
+    // console.log("from cart",cart);
     // const totalReducer = (previous, product) => previous + product.price;
     // const total = cart.reduce( totalReducer , 0);
 
